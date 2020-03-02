@@ -2,4 +2,6 @@ Summary of important user-visible changes for Bio-DB-Taxonomy-sqlite
 --------------------------------------------------------------------
 
 {{$NEXT}}
+
+1.7.3     2020-03-01 23:52:44-06:00 America/Chicago
   * First release after split from bioperl-live.
