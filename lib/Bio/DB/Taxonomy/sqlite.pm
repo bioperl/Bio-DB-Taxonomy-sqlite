@@ -1,5 +1,5 @@
 #
-# BioPerl module for Bio::DB::Taxonomy::flatfile
+# BioPerl module for Bio::DB::Taxonomy::sqlite
 #
 # Please direct questions and support issues to <bioperl-l@bioperl.org>
 #
@@ -13,7 +13,7 @@
 
 =head1 NAME
 
-Bio::DB::Taxonomy::sqlite - SQLite-based implementation of Bio::DB::Taxonomy::flatfile
+Bio::DB::Taxonomy::sqlite - SQLite-based implementation of Bio::DB::Taxonomy::flatfile implementation
 
 =head1 SYNOPSIS
 
